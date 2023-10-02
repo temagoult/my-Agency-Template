@@ -1,7 +1,7 @@
 
 <template>
   <div
-    class="md:mb-[100px] sm:mb-[70px] mb-[40px] footer h-[100%] grid sm:grid-cols-2 grid-cols-1 p-12 md:gap-7 sm:gap-5 gap-3"
+    class="footer h-[100%] grid sm:grid-cols-2 grid-cols-1 p-12 md:gap-7 sm:gap-5 gap-3"
   >
     <div
       class="partOneFooter flex flex-col justify-evenly gap-3 sm:text-start text-center sm:items-start items-center"
