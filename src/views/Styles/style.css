@@ -1,0 +1,210 @@
+.myContainer{
+    width: 90%;
+    margin: auto;
+    padding: 5px;
+
+}
+body{
+font-family: Hind Vadodara;
+font-size: 87px;
+font-weight: 700;
+line-height: 99.8%; /* 86.826px */
+letter-spacing: -0.87px;
+}
+.spaceSection{
+    margin-bottom: 100px ;
+}
+.mainColor{
+color: #331B3B;
+
+}
+.w700{
+    font-weight: 700;
+}
+.w400{
+    font-weight: 400;
+}
+.w300{
+    font-weight: 300;
+}
+
+.titleTemplate{
+ font-family: Playfair Display;
+
+}
+
+.icon{
+    border: #331B3B solid 1px;
+    border-top-left-radius: 70%;
+    border-bottom-right-radius: 70%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+.low-highlight {
+    background-image:linear-gradient(180deg, transparent 55%, #FDC021 76%,transparent 10%);
+  }
+  p{
+color: rgba(51, 27, 59, 0.66);
+font-family: Hind Vadodara;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 146.3%; /* 24.871px */
+letter-spacing: 0.34px;
+  }
+  .inputfield{
+color: #FFF;
+font-family: Hind Vadodara;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 137.3%; /* 23.341px */
+letter-spacing: 0.34px;
+text-transform: uppercase;}
+.businessCard{
+width: 308px;
+height: 192px;
+border-radius: 10px;
+background: #FFF;
+box-shadow: 0px 0px 9px 2px rgba(0, 0, 0, 0.05);
+}
+.titreBusiness{
+color: #331B3B;
+font-family: Hind Vadodara;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 137.3%; /* 21.968px */
+letter-spacing: 0.88px;
+text-transform: uppercase;
+}
+.paraBusiness{
+color: rgba(51, 27, 59, 0.66);
+font-family: Hind Vadodara;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: 145.3%; /* 21.795px */
+letter-spacing: 0.3px;
+}
+.nextButt,.previousButt{
+    color: #331B3B;
+    width: 50px;
+    height: 50px;
+    border-radius: 32px;
+    background:  #E0E3EB;
+    opacity: 0.5;
+}
+.actif{
+    color:#331B3B ;
+    border: #331B3B solid 1px;
+    border-radius: 50%;
+ 
+}
+.recentwordlabel{
+color: #331B3B;
+font-family: Hind Vadodara;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 146.3%;
+}
+.btnviewwork{
+width: 92px;
+height: 23px;
+border-radius: 100px;
+border: 1px solid #343434;
+}
+.imgwork1{
+width: 286px;
+height: 238px;
+}
+.imgwork2{
+
+width: 89px;
+height: 238px;
+
+
+}
+.recentCard{
+width: 419px;
+height: 365px;
+border-radius: 10px;
+background: #FFF;
+box-shadow: 0px 0px 9px 2px rgba(0, 0, 0, 0.05);
+}
+.boxClient{
+width: 448px;
+height: 310px;
+flex-shrink: 0;
+background: #FFF;
+box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.08);
+}
+.tag{
+    width: 11px;
+    height: 1px;
+    background-color: #FDC221;
+
+}
+.label{
+color: #000;
+font-family: Hind Vadodara;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 159.3%; /* 25.488px */
+letter-spacing: 0.32px;
+}
+.getInTouch{
+color: #FFF;
+font-family: Hind Vadodara;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 159.3%; /* 25.488px */
+letter-spacing: 0.32px;
+text-transform: uppercase;
+}
+.logoFooter{
+width: 275px;
+height: 52px;
+color: #FFF;
+font-family: Playfair Display;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.36px;
+
+}
+.input{
+border: 1px solid #FFF;
+color: #FFF;
+font-family: Hind Vadodara;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 159.3%; /* 25.488px */
+letter-spacing: 0.32px;
+text-transform: uppercase;
+background-color: #000;
+}
+
+.send{
+width: 143px;
+height: 52px;
+border: 1px solid #FFF;
+background-color: #FFF;
+color: #000;
+font-family: Hind Vadodara;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 159.3%; /* 25.488px */
+letter-spacing: 0.32px;
+text-transform: uppercase;
+}
+.footer{
+border-radius: 0px 158px 0px 0px;
+background-color: #000;
+}
