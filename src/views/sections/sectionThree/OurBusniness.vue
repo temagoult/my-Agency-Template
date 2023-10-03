@@ -42,7 +42,7 @@
             class="sm:w-[350px] w-[100%]"
           >
             <div
-              class="businessCard flex flex-col justify-center items-start gap-2 sm:w-[90%] w-[88%] cursor-pointer"
+              class="businessCard flex flex-col justify-center items-start gap-2 sm:w-[90%] w-[98%] cursor-pointer"
             >
               <img :src="card.image" class="w-[52px] h-[48px] px-2" alt />
               <div class="titreBusiness px-2">{{ card.title }}</div>
