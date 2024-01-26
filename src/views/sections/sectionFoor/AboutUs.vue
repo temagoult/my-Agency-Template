@@ -1,6 +1,6 @@
 <template>
   <div
-    class="business myContainer sm:text-start text-center relative md:mb-[100px] sm:mb-[70px] mb-[40px] myContainer grid sm:grid-cols-2 grid-cols-1 lg:gap-9 md:gap- sm:gap-3 gap-2"
+    class="business myContainer sm:text-start text-center relative md:mb-[100px] sm:mb-[70px] mb-[40px] myContainer grid sm:grid-cols-2 grid-cols-1 lg:gap-12 md:gap- sm:gap-3 gap-2"
   >
     <div class="partOne1">
       <img src="../../../assets//images/aboutus.png" class="md:w-[580px] cursor-pointer" alt />
